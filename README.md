@@ -58,11 +58,11 @@ This project details the step-by-step design, configuration, and validation of a
 
 ### **Data Plane Topology**
 
-<img src="./docs/diagram1.png" alt="diagram1.png" width="752" height="318" class="jop-noMdConv">
+<img src="./assets/diagram1.png" alt="diagram1.png" width="752" height="318" class="jop-noMdConv">
 
 ### **Management Plane Topology**
 
-</div><div class="joplin-table-wrapper"><img src="./docs/diagram2.png" alt="diagram2.png" width="449" height="228" class="jop-noMdConv"></div>
+</div><div class="joplin-table-wrapper"><img src="./assets/diagram2.png" alt="diagram2.png" width="449" height="228" class="jop-noMdConv"></div>
 
 * * *
 
