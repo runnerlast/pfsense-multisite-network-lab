@@ -37,4 +37,4 @@ Isolated vmnets were used to segment WAN links, trunked VLAN traffic, and out-of
 | vmnet9 | 10.0.100.0/24 | Host, HQ-Primary/Secondary MGMT, OpenWRT eth0, Monitoring VM | Out-of-band, HQ |
 | vmnet10 | 10.0.101.0/24 | Host, Branch MGMT | Out-of-band, Branch |
 
-[<- Previous Section](./README.md) | [Next Section ->](./Section2.md)
+[<- Previous Section](../README.md) | [Next Section ->](./Section2.md)
