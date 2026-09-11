@@ -95,7 +95,6 @@ This project details the step-by-step design, configuration, and validation of a
 
 ```
 pfsense-multisite-network-lab/
-├── .gitignore
 ├── assets/
 ├── configs/
 │   ├── chr/
